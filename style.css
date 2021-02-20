@@ -1,0 +1,306 @@
+
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+
+  nav ul {
+    margin-top: 0;
+    height: 50px;
+    background-color: black;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+  }
+
+  ul li a {
+    color: #9f9f9f;
+    align-items: center;
+    font-size: 15px;
+    margin-left: 90px;
+    text-decoration: none;
+  }
+
+  .fa.fa-apple {
+    font-size: 25px;
+  }
+
+  .fa.fa-search{
+    font-size: 25px;
+  }
+
+  .fa.fa-shopping-bag {
+    font-size: 25px;
+  }
+
+  .store-status {
+    background-color: #f0f0f0;
+    text-decoration: none;
+  }
+
+  .store-status-para {
+    margin-top: 0;
+    text-align: center;
+  }
+
+  .store-status-word {
+    text-decoration: none;
+    color: blue;
+  }
+
+  .i12class {
+    padding-top: 30px;
+    text-align: center;
+  }
+
+  #i12head {
+    font-size: 55px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  #blast {
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 10px;
+  }
+
+  #price{
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    font-size: 20px;
+  }
+
+  .learn {
+    font-size: 20px;
+    text-decoration: none;
+    color: blue;
+    margin-right: 10px;
+  }
+
+  .learn:hover {
+    border-bottom: solid blue;
+  }
+
+  #pro {
+    padding-top: 8px;
+  }
+
+  .i12classPro {
+    padding-top: 20px;
+    text-align: center;
+    background-color: black;
+  }
+
+  #i12Pro {
+    font-size: 55px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: white;
+  }
+
+  #leapPro {
+    font-size: 30px;
+    font-family: Arial;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: white;
+  }
+
+  #pricePro {
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    margin-top: 0;
+    font-size: 20px;
+    color: #9f9f9f;
+  }
+
+  #img {
+    width: 100%;
+  }
+
+  #fitness {
+    padding-top: 8px;
+  }
+
+  .fit {
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  #hfit {
+    font-size: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  #fwatch {
+    font-size: 25px;
+    font-family: Arial;
+    font-weight: 400;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    letter-spacing: 0.01em;
+  }
+
+  #fitness-fa {
+    font-size: 35px;
+  }
+
+  .parent {
+    margin: 20px 10px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 0.7em;
+    margin-bottom: 0;
+  }
+
+  .div1 {
+    padding-top: 15px;
+    text-align: center;
+    background-color: black;
+    width: 740px;
+    height: 540px;
+  }
+
+  #div1watch {
+    font-size: 35px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: white;
+  }
+
+  #div1sub {
+    color: white;
+    margin-top: 0;
+  }
+
+  #div1Subtitle {
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: white;
+  }
+
+  .div2 {
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  #div2title {
+    font-size: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  #div2Subtitle {
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    letter-spacing: 0.01em;
+  }
+
+  .div3 {
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  #div3title {
+    font-size: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  #div3Subtitle {
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    letter-spacing: 0.01em;
+  }
+
+  .div4 {
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  #div4title {
+    font-size: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  .div6 {
+    padding-top: 15px;
+    text-align: center;
+    background-color: black;
+    width: 740px;
+    height: 526px;
+  }
+
+  #div6MacBook {
+    font-size: 35px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: white;
+  }
+
+  #div6Subtitle {
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: white;
+  }
+
+  #footer-main {
+    background-color: #f5f5f7;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: sans-serif, Arial;
+  }
+
+  #footer {
+    width: 1000px;
+    margin-left: 250px;
+  }
+
+  #o-list {
+    padding-left: 10px;
+  }
+
+  .footerColumns {
+    margin: 5px 10px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 0.7em;
+  }
+
+  .u-list {
+    padding-left: 0;
+    list-style: none;
+  }
+
+  @media (max-width: 600px) {
+    .parent {
+      margin: 5px 5px;
+      display: grid;
+      grid-template-columns: repeat(1, 1fr);
+      grid-gap: 0.7em;
+      margin-bottom: 0;
+    }
+  }
