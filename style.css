@@ -303,4 +303,20 @@
       grid-gap: 0.7em;
       margin-bottom: 0;
     }
+
+    ul li a {
+      color: #9f9f9f;
+      align-items: center;
+      font-size: 10px;
+      margin-left: 20px;
+      text-decoration: none;
+    }
+
+    .fa.fa-search{
+      font-size: 10px;
+    }
+
+    .fa.fa-shopping-bag {
+      font-size: 10px;
+    }
   }
